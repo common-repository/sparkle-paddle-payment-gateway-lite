@@ -1,0 +1,352 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sparkle Paddle Payment Gateway - Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-28 04:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: sparkle-paddle-payment-gateway-lite"
+
+#: includes/edd_plugin_init.php:88 includes/woo_plugin_init.php:53
+msgid "</code> is not supported yet by Paddle."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:14
+msgid "Add Paddle payment inline gateway to checkout."
+msgstr ""
+
+#: includes/edd_plugin_init.php:619 includes/edd_plugin_init.php:669
+msgid "Auth Code"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:86
+msgid "Auth Code(Required)"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:112
+msgid ""
+"Check this option if you are doing test payments using this Paddle Payment "
+"Gateway."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:52
+msgid "Check this option to enable this payment gateway."
+msgstr ""
+
+#: includes/edd_plugin_init.php:607
+msgid "Configure the Paddle Payment Gateway settings"
+msgstr ""
+
+#: includes/edd_plugin_init.php:657
+msgid "Configure the Paddle Payment Gateway settings for Test Mode"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:63
+msgid "Description"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:50
+msgid "Enable Paddle Inline Gateway"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:110
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:49
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/edd_plugin_init.php:59 includes/woo_plugin_init.php:214
+msgid "Error"
+msgstr ""
+
+#: includes/edd_plugin_init.php:59
+msgid ""
+"Getway is not setup correctly. Please contact site administrator and notify "
+"about this error. The gateway will not work properly."
+msgstr ""
+
+#: includes/edd_plugin_init.php:169
+msgid "Got refund request, but payment havent completed yet."
+msgstr ""
+
+#: includes/woo_plugin_init.php:375
+msgid "Got refund request, but payment havent completed yet. "
+msgstr ""
+
+#. URI of the plugin
+msgid "https://paddle.sparklewpthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sparklewpthemes.com"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:69
+msgid "Icon Selection"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:101
+#, php-format
+msgid ""
+"In order for Paddle to function completely, you must configure your Paddle "
+"INS settings. Visit %1$s Account Dashboard %2$s. to configure them. Please "
+"add a webhook endpoint from the above readonly URL."
+msgstr ""
+
+#: includes/edd_plugin_init.php:644
+#, php-format
+msgid ""
+"In order for Paddle to function completely, you must configure your Paddle "
+"INS settings. Visit %1$s Account Dashboard.%2$s to configure them. Please "
+"add a webhook endpoint for the URL below."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:99
+#: includes/edd_plugin_init.php:641
+msgid "INS URL"
+msgstr ""
+
+#: includes/edd_plugin_init.php:579
+msgid "Paddle - Icon 1"
+msgstr ""
+
+#: includes/edd_plugin_init.php:580
+msgid "Paddle - Icon 2"
+msgstr ""
+
+#: includes/edd_plugin_init.php:581
+msgid "Paddle - Icon 3"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:59
+msgid "Paddle - Inline"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:146
+msgid "Paddle Inline Icon"
+msgstr ""
+
+#: includes/edd_plugin_init.php:633
+msgid "Paddle Radio Button Label For Inline"
+msgstr ""
+
+#: includes/edd_plugin_init.php:606
+msgid "Paddle Settings"
+msgstr ""
+
+#: includes/edd_plugin_init.php:656
+msgid "Paddle Settings - Test Mode"
+msgstr ""
+
+#: includes/edd_plugin_init.php:592
+msgid "Paddle(Sparkle)"
+msgstr ""
+
+#: includes/edd_plugin_init.php:566
+msgid "Paddle(Sparkle) - Inline"
+msgstr ""
+
+#: includes/edd_plugin_init.php:567
+msgid "Paddle(sparkle) - Inline"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:177
+msgid "Paddle(Sparkle): Awaiting Paddle for payment confirmation."
+msgstr ""
+
+#: includes/woo_plugin_init.php:364
+msgid ""
+"Paddle(Sparkle): Payment Complete. The status is set using Paddle Webhook "
+"Alert INS URL. "
+msgstr ""
+
+#: includes/edd_plugin_init.php:158
+msgid ""
+"Paddle(Sparkle): Status changed to complete using Paddle Webhook Alert INS "
+"URL as payment is successed."
+msgstr ""
+
+#: includes/woo_plugin_init.php:310
+#, php-format
+msgid ""
+"Paddle(Sparkle): Status changed to complete using paddle webhook success "
+"return URL. order reference id: %d"
+msgstr ""
+
+#: includes/edd_plugin_init.php:401
+msgid "Paddle(Sparkle): Status changed to complete using webhook return URL."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:66
+msgid "Pay with your credit card via Paddle payment gateway."
+msgstr ""
+
+#: includes/edd_plugin_init.php:634
+msgid ""
+"Please enter the radio button label to be displayed in checkout page. If "
+"kept blank default label Paddle(sparkle) - Inline will be displayed in "
+"checkout page."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:88
+#, php-format
+msgid ""
+"Please enter your Auth Code from %1$s  Developers Tools > Authentication - "
+"Generate Auth Code. %2$s"
+msgstr ""
+
+#: includes/edd_plugin_init.php:620 includes/edd_plugin_init.php:670
+#, php-format
+msgid ""
+"Please enter your Auth Code from %1$s Developers Tools > Authentication - "
+"Generate Auth Code. %2$s"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:95
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:132
+#, php-format
+msgid ""
+"Please enter your Public Key from %1$s  Developer Tools > Public Key %2$s. "
+"This is required for the singnature validation and IPN response validation."
+msgstr ""
+
+#: includes/edd_plugin_init.php:627 includes/edd_plugin_init.php:677
+#, php-format
+msgid ""
+"Please enter your Public Key from %1$s Developer Tools > Public Key.%2$s"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:125
+#, php-format
+msgid ""
+"Please enter your Test Auth Code from %1$s  Developers Tools > "
+"Authentication - Generate Auth Code. %2$s"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:119
+#, php-format
+msgid ""
+"Please enter your Test Vendor ID from %1$s  Developers Tools> Authentication."
+"%2$s"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:82
+#, php-format
+msgid ""
+"Please enter your Vendor ID from %1$s  Developers Tools> Authentication.%2$s"
+msgstr ""
+
+#: includes/edd_plugin_init.php:613 includes/edd_plugin_init.php:663
+#, php-format
+msgid ""
+"Please enter your Vendor ID from %1$s Developers Tools > Authentication.%2$s"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:70
+msgid "Please Select the Paddle Icon to show in Checkout Page."
+msgstr ""
+
+#: includes/edd_plugin_init.php:626 includes/edd_plugin_init.php:676
+msgid "Public Key"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:93
+msgid "Public Key(Required)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Simplify your digital payments using Paddle - Addon for Easy Digital "
+"Downloads and WooCommerce"
+msgstr ""
+
+#: includes/woo_plugin_init.php:214
+msgid ""
+"Sparkle Paddle Inline Getway is not setup correctly. Please contact site "
+"administrator and notify about this error. The gateway will not work "
+"properly."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:13
+msgid "Sparkle Paddle Payment Gateway - Inline"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sparkle Paddle Payment Gateway - Lite"
+msgstr ""
+
+#: sparkle-paddle-payment-gateway-lite.php:81
+msgid ""
+"Sparkle Paddle Payment Gateway is enabled but not effective. It requires "
+"WooCommerce or Easy Digital Download in order to work."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sparkle WP Themes"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:123
+msgid "Test Auth Code"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:109
+msgid "Test mode"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:130
+msgid "Test Public Key(Required)"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:117
+msgid "Test Vendor ID"
+msgstr ""
+
+#: includes/woo_plugin_init.php:78
+msgid ""
+"Thank you for your order. Please complete the payment using below paddle "
+"form."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:65
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:58
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:56
+msgid "Title"
+msgstr ""
+
+#: includes/edd_plugin_init.php:612 includes/edd_plugin_init.php:662
+msgid "Vendor ID"
+msgstr ""
+
+#: includes/class_sparkle_paddle_payment_woo_gateway_inline.php:80
+msgid "Vendor ID(Required)"
+msgstr ""
+
+#: includes/edd_plugin_init.php:649
+#, php-format
+msgid "Webhook URL: %s"
+msgstr ""
+
+#: includes/edd_plugin_init.php:508
+msgid "You need to enter your auth code to make this plugin work.<br />"
+msgstr ""
+
+#: includes/edd_plugin_init.php:503
+msgid "You need to enter your vendor id to make this plugin work."
+msgstr ""
